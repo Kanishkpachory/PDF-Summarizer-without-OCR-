@@ -1,1 +1,2 @@
-# PDF-Summarizer-without-OCR-
+# Data2learn
+PDF learning app
