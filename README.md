@@ -4,10 +4,6 @@ A high-performance and modular document intelligence system, PDF-Summarizer-with
 
 ---
 
-## Live Demo
-*(Add link here if available)*
-
----
 
 ## Table of Contents
 
