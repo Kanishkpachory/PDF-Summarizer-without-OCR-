@@ -1,4 +1,4 @@
-# 📄 PDF-Summarizer-without-OCR  
+# 📄 PDF-Summarizer
 **AI-Powered Document Intelligence & Semantic Summarization Engine**
 
 ---
