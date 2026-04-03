@@ -1,6 +1,6 @@
 # PDF-Summarizer
 
-A high-performance and modular document intelligence system, PDF-Summarizer-without-OCR is designed to extract, process, and summarize textual data from PDFs without relying on OCR, ensuring efficiency and accuracy.
+A high-performance and modular document intelligence system, PDF-Summarizer without OCR is designed to extract, process, and summarize textual data from PDFs without relying on OCR, ensuring efficiency and accuracy.
 
 ---
 
@@ -55,3 +55,57 @@ pip install -r requirements.txt
 python migrate_db.py
 
 python main.py
+```
+---
+
+## Usage
+
+- Input a PDF file  
+- Extract text from document  
+- Chunk the content  
+- Process and summarize  
+- Store output in database
+
+---
+
+## Files and Directories
+
+main.py — Entry point  
+extractors.py — PDF text extraction  
+chunker.py — Text segmentation  
+text.py — Processing logic  
+imageExtraction.py — Image extraction  
+image_text.py — Image-text linking  
+
+database.py — Database operations  
+models.py — ORM models  
+schemas.py — Validation schemas  
+migrate_db.py — Database setup  
+
+project_data.db — Main database  
+runtime.db — Runtime storage  
+requirements.txt — Dependencies  
+.gitignore — Git exclusions  
+
+---
+
+## Contributing
+
+- Fork repository  
+- Create branch  
+- Commit changes  
+- Push and open PR  
+
+---
+
+## License
+
+MIT License  
+
+---
+
+## Author
+
+Kanishk Pachory  
+
+EOF
