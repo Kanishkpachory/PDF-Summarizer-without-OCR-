@@ -100,12 +100,6 @@ requirements.txt — Dependencies
 
 ## License
 
-MIT License  
+MIT License  - Kanishk Pachory  
 
----
 
-## Author
-
-Kanishk Pachory  
-
-EOF
